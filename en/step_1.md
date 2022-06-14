@@ -2,7 +2,7 @@ You can use the `gap` property on the `wrap` class in `style.css` to create a ho
 
 **Note:** The gap property is not supported by older web browsers. 
 
-![Two rows of three coloured boxes with gaps inbetween the rows and columns.](images/flex-gap.png){:width="300px"}
+![Two rows of three coloured boxes with gaps inbetween the rows and columns.](images/flex-gap.png){:width="400px"}
 
 --- code ---
 ---
