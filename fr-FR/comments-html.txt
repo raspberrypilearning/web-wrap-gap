@@ -1,0 +1,5 @@
+Styles just for the .wrap class
+
+Make content wrap over multiple rows
+
+horizontal and vertical gap
