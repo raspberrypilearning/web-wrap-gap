@@ -1,6 +1,6 @@
-You can use the `gap` property on the `wrap` class in `style.css` to create a horizontal and/or vertical gap between wrapped items. This can be useful when you use borders or shadows.
+Tu peux utiliser la propriété `gap` de la classe `wrap` dans `style.css` pour créer un espace horizontal et/ou vertical entre les éléments enveloppés. Cela peut être utile lorsque tu utilises des bordures ou des ombres.
 
-**Note:** The `gap` property is not supported by older web browsers.
+**Remarque :** la propriété `gap` n'est pas prise en charge par les anciens navigateurs web.
 
 ![Two rows of three coloured boxes with gaps in between the rows and columns.](images/flex-gap.png){:width="400px"}
 
