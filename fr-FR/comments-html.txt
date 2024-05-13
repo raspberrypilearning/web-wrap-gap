@@ -1,5 +1,5 @@
-Styles just for the .wrap class
+Styles uniquement pour la classe .wrap
 
-Make content wrap over multiple rows
+Faire en sorte que le contenu s'étende sur plusieurs lignes
 
-horizontal and vertical gap
+espace horizontal et vertical
