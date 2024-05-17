@@ -1,5 +1,5 @@
-Styles just for the .wrap class
+Stijlen alleen voor de .wrap-class
 
-Make content wrap over multiple rows
+Laat inhoud over meerdere rijen lopen
 
-horizontal and vertical gap
+horizontale en verticale opening
