@@ -1,0 +1,5 @@
+Styles uniquement pour la classe .wrap
+
+Faire en sorte que le contenu s'étende sur plusieurs lignes
+
+espace horizontal et vertical
