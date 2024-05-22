@@ -1,0 +1,5 @@
+Stijlen alleen voor de .wrap-class
+
+Laat inhoud over meerdere rijen lopen
+
+horizontale en verticale opening
